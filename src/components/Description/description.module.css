@@ -1,0 +1,11 @@
+.boxDescr{}
+.boxTitle{
+    display: flex;
+    justify-content: center;
+    
+}
+.icon{
+    color: rgb(199, 104, 172);
+}
+.title{}
+.parag{margin-bottom: 10px;}

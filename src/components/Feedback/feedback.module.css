@@ -1,0 +1,19 @@
+.boxFeedback 
+{ margin-top: 20px; }
+.feedback{
+
+}
+.boxFeedbackRate{display: flex;
+    justify-content: center;
+    gap: 15px;
+font-size: 20px;
+}
+.feedbackRate {border-radius: 20px;
+   width: 150px;
+    background-color: rgba(199, 104, 172, 0.714);}
+.feedbackTotal{
+    font-size: 18px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;}

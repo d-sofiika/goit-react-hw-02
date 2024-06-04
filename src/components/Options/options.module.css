@@ -1,0 +1,12 @@
+.boxBtn{
+display: flex;
+justify-content: center;
+gap: 15px;
+}
+.btn{
+border: 2px solid rgb(199, 104, 172);
+border-radius: 20px;
+}
+.btn:hover{
+   background-color:rgb(199, 104, 172);
+}
