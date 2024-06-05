@@ -2,6 +2,7 @@
 display: flex;
 justify-content: center;
 gap: 15px;
+margin-bottom: 10px;
 }
 .btn{
 border: 2px solid rgb(199, 104, 172);
